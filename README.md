@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning GoLang, C and Python tools
 - 💞️ I’m looking to collaborate on Anything in my domain
 - ⚡ Fun fact: I'm only 18 :D
+- Build, Inspire, Repeat
 
 <!---
 Yajirobe-Senju/Yajirobe-Senju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
